@@ -66,8 +66,8 @@ A cheerful orange-pink Lickitung with its long tongue lolling out is ready for a
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your_username/text-to-image-diffusion.git
-cd text-to-image-diffusion
+git clone https://github.com/KetanMann/Text_2_Img_Diffusion_Model_Training_Script
+cd Text_2_Img_Diffusion_Model_Training_Script
 ```
 2. Install the required dependencies:
 ```bash
