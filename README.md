@@ -199,9 +199,6 @@ If you encounter issues:
 
 Contributions to improve the script or extend its functionality are welcome. Please feel free to submit pull requests or open issues for bugs and feature requests.
 
-## License
-
-[Specify your license here]
 
 ## Acknowledgements
 
