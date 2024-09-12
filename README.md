@@ -2,8 +2,8 @@
 
 This repository contains a sophisticated script for training a text-to-image diffusion model using the Hugging Face Diffusers library. It implements a custom Text-to-Image pipeline and leverages advanced techniques for text conditioning in diffusion models.
 #### All 32x32 images at different epochs of training, were upscaled(256x256) to make this gif. That's why it is hazy. 
-Test this Repo -> Testing_Repo_Txt2Img.ipynb
 ![Epoch_Progression](training_progress.gif)
+### Test this Repo -> Testing_Repo_Txt2Img.ipynb
 ## Table of Contents
 
 - [Features](#features)
