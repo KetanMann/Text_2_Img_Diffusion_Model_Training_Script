@@ -129,7 +129,7 @@ Here are 2 examples(32x32) showing denoising process with number of steps. After
 
 For a full list of options, run:
 ```bash 
-python imagen_like.py --help
+python training_script_diffusion.py --help
 ```
 ## Model Architecture
 
