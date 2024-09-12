@@ -4,6 +4,7 @@ This repository contains a sophisticated script for training a text-to-image dif
 #### All 32x32 images at different epochs of training, were upscaled(256x256) to make this gif. That's why it is hazy. 
 ![Epoch_Progression](training_progress.gif)
 ### Test this Repo -> Testing_Repo_Txt2Img.ipynb
+This repo is for advanced prompt-based text2img diffusion training from Scratch. If you only want class label conditioned, see my repo for class-conditioned diffusion.
 ## Table of Contents
 
 - [Features](#features)
