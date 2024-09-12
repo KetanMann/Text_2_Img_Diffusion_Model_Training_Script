@@ -72,6 +72,9 @@ cd Text_2_Img_Diffusion_Model_Training_Script
 2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+
+# Source Install
+pip install git+https://github.com/huggingface/diffusers 
 ```
 ## Usage
 
