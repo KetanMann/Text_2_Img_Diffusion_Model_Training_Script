@@ -84,7 +84,7 @@ pip install git+https://github.com/huggingface/diffusers
 
 2. Run the training script:
 ```bash
-!accelerate launch --multi_gpu imagen_like.py \
+!accelerate launch --multi_gpu training_script_diffusion.py \
   --dataset_name="diffusers/pokemon-gpt4-captions" \
   --resolution=32 \
   --output_dir=/kaggle/working/nouns_models \
