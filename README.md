@@ -19,7 +19,6 @@ This repository contains a sophisticated script for training a text-to-image dif
 - [Performance Optimization](#performance-optimization)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
