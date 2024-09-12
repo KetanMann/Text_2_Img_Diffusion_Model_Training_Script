@@ -2,7 +2,7 @@
 
 This repository contains a sophisticated script for training a text-to-image diffusion model using the Hugging Face Diffusers library. It implements a custom Text-to-Image pipeline and leverages advanced techniques for text conditioning in diffusion models.
 
-![Epoch_Progression](output.gif)
+![Epoch_Progression](training_progress.gif)
 ## Table of Contents
 
 - [Features](#features)
