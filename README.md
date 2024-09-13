@@ -200,6 +200,7 @@ If you encounter issues:
 Contributions to improve the script or extend its functionality are welcome. Please feel free to submit pull requests or open issues for bugs and feature requests.
 
 ## Citations
+Please cite this if you find this useful.
 [![DOI](https://zenodo.org/badge/856500652.svg)](https://zenodo.org/doi/10.5281/zenodo.13757200)
 ## Acknowledgements
 
