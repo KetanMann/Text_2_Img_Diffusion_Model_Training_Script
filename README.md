@@ -199,7 +199,8 @@ If you encounter issues:
 
 Contributions to improve the script or extend its functionality are welcome. Please feel free to submit pull requests or open issues for bugs and feature requests.
 
-
+## Citations
+[![DOI](https://zenodo.org/badge/822242135.svg)](https://zenodo.org/doi/10.5281/zenodo.12600813)
 ## Acknowledgements
 
 This script is based on the Hugging Face Diffusers library and incorporates techniques from various text-to-image diffusion models. Special thanks to the open-source community for their contributions to the field of generative AI.
