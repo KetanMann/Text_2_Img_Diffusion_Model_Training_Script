@@ -1,7 +1,8 @@
 # Advanced Text-to-Image Diffusion Model Training Script(From Scratch)
 
 This repository contains a sophisticated script for training a text-to-image diffusion model using the Hugging Face Diffusers library. It implements a custom Text-to-Image pipeline and leverages advanced techniques for text conditioning in diffusion models.
-Some Generated Samples with Prompts
+
+## Some Generated Samples with Prompts
 ![Prompt 1](1.png)
 ![Prompt 2](2.png)
 ![Prompt 3](3.png)
